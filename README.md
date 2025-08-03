@@ -39,7 +39,7 @@ git clone https://sahil-bhoite.github.io/Gushwork/
 
 **Sahil Bhoite**  
 - GitHub: [@sahil-bhoite](https://github.com/sahil-bhoite)
-- My Website: [sahil-bhoite.github.io/Website/](sahil-bhoite.github.io/Website/)
+- My Website: [sahil-bhoite.github.io/Website/](https://sahil-bhoite.github.io/Website/)
 
 ## Project Structure
 
