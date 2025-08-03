@@ -25,15 +25,15 @@ A modern, responsive website for Mangalam HDPE Pipes showcasing their premium pi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sahil-bhoite
+git clone https://sahil-bhoite.github.io/Gushwork/
 ```
 
 2. Open `index.html` in your browser
 
 ## Live Demo
 
-View the live website at:  
-[https://github.com/sahil-bhoite/](https://github.com/sahil-bhoite/)
+[View the live website at:  
+- Live demo: [https://sahil-bhoite.github.io/Gushwork/ ](https://sahil-bhoite.github.io/Gushwork/)
 
 ## Author
 
